@@ -1,2 +1,2 @@
 # webpack-exercise
-<script src='./bundle.js'></script>
+<script src="./bundle.js"></script>
